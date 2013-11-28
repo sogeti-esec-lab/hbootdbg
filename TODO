@@ -1,0 +1,3 @@
+- Handle every relocation for breakpoints
+- Delete preloader step
+- Add other devices (HTC One, ...)
