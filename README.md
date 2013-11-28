@@ -10,10 +10,11 @@ Currently only supports HTC Desire Z with HBOOT 0.85.0015.
 
 hbootdbg is released under the **BSD 3-Clause License**.
 
-## Acknowledgement
+## Acknowledgements
 
 * Jurriaan Bremer (@skier_t) for DARM disassembler (http://darm.re/)
-* Base64 decoding provided by http://libb64.sourceforge.net
+* Guillaume Delugré for qcombbdbg (https://code.google.com/p/qcombbdbg/)
+* Chris Venter for libb64 (http://libb64.sourceforge.net)
 
 ## Quick use guide
 

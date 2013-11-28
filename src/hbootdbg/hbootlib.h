@@ -4,6 +4,9 @@
 ** Copyright (C) 2013 Nicolas Hureau <nicolas.hureau@sogeti.com>
 ** All rights reserved.
 **
+** Code greatly inspired by qcombbdbg.
+** Copyright (C) 2012 Guillaume Delugré <guillaume@security-labs.org>
+**
 ** Redistribution and use in source and binary forms, with or without modification,
 ** are permitted provided that the following conditions are met:
 **

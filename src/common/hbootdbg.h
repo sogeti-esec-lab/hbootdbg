@@ -1,8 +1,11 @@
 /*
-**  This file is part of hbootdbg.
-**  Copyright (C) 2013 Cedric Halbronn <cedric.halbronn@sogeti.com>
-**  Copyright (C) 2013 Nicolas Hureau <nicolas.hureau@sogeti.com>
-**  All rights reserved.
+** This file is part of hbootdbg.
+** Copyright (C) 2013 Cedric Halbronn <cedric.halbronn@sogeti.com>
+** Copyright (C) 2013 Nicolas Hureau <nicolas.hureau@sogeti.com>
+** All rights reserved.
+**
+** Code greatly inspired by qcombbdbg.
+** Copyright (C) 2012 Guillaume Delugré <guillaume@security-labs.org>
 **
 ** Redistribution and use in source and binary forms, with or without modification,
 ** are permitted provided that the following conditions are met:
